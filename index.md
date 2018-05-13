@@ -7,4 +7,4 @@ layout: home
 
 ![image-title-here](assets/img/1920px-Blockchain-alpha.png){:class="img-responsive"}
 
-<iframe width="225" height="570" src="http://meetu.ps/3hS5xm" frameborder="0"></iframe>
+[comment]: <> (<iframe width="225" height="570" src="http://meetu.ps/3hS5xm" frameborder="0"></iframe>)
