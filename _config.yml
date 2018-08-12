@@ -22,6 +22,7 @@ url: 'https://decentralized-systems.github.io'
 #twitter_username: Michael_A_Heuer
 #github_username: Michael-A-Heuer
 markdown: kramdown
+google_analytics: UA-123745916-1
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
