@@ -12,9 +12,9 @@ A good point to start are the following tutorials:
     * make sure to have [node.js][nodejs] installed
 
 ## Kialo Debate 📢
-To discuss arguments about different distributed ledger technologies, join our
-[Kialo.com debate][Kialo-Debate].
-
+Read and join our
+[Kialo.com debate][Kialo-Debate]
+where we discuss arguments for and against different distributed ledger technologies. 
 
 ## Karma App ⭕️
 We started developing our own toy project, a Karma App with the goal to put emphasis on good things happening. You can see the progress and contribute to it in our [git repository][git-repo].
@@ -22,8 +22,6 @@ We started developing our own toy project, a Karma App with the goal to put emph
 
 ## Meetup Protocols 📋
 In addition to this, we publish on this website our protocols, so that you can catch up with this group’s state of affairs in case you missed a meeting. 
-
-We are looking forward to seeing you!
 
 
 [Coursera]: https://www.coursera.org
