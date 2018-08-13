@@ -27,7 +27,7 @@ google_analytics: UA-123745916-1
 # If you want to link only specific pages in your header,
 # add the path to the pages in order as they should show up
 header_pages:
-  - getting-started.md
+  - first-steps.md
   - meetup.md
   - about.md
 
