@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: First Steps
 ---
 
 Digging into the topic of Blockchain and distributed ledger technologies and starting to develop your own Dapp can be overwhelming. For this reason, we collected some material for you to getting started.
@@ -13,8 +13,8 @@ A good point to start are the following tutorials:
 
 ## Kialo Debate 📢
 Read and join our
-[Kialo.com debate][Kialo-Debate]
-where we discuss arguments for and against different distributed ledger technologies. 
+[Kialo.com debate]({{ site.baseurl }}{% link _posts/2018-07-11-kialo-debate.md %})
+where we discuss arguments for and against different distributed ledger technologies under this link. 
 
 ## Karma App ⭕️
 We started developing our own toy project, a Karma App with the goal to put emphasis on good things happening. You can see the progress and contribute to it in our [git repository][git-repo].
