@@ -10,7 +10,7 @@ Imagine a decentralized social media app in which the users can send each other 
 * A user account is associated with a relative karma balance ranging from 0 to 255.
 * A Karma value of 0 symbolizes neutral karma whereas the value of 255 symbolizes the best possible karma.
 * If user A sends karma to user B, the karma value of user B is incremented by a fixed amount whereas the value of user A does not change.
-* If a user has not recieved new karma for a fixed period of time, the karma value should decay exponentially towards zero over time .
+* If a user has not recieved new karma for a fixed period of time, the karma value should decay linearly towards zero over time .
 
 The mechanics described above need to be translated into a smart contract.
 
