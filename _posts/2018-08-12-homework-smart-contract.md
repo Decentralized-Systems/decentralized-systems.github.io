@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Homework: Writing a Smart Contract"
+title:  "Homework #1: Writing a Smart Contract"
 date:   2018-08-12 18:00:00 +0200
-categories: homework
+categories: homework,karma-app
 ---
 
-Imagine a decentralized social media app in which the users can send each other Karma. In this app, Karma is a symbol for appreciation and gratitude. 
+Imagine a decentralized social media app in which the users can send each other Karma. In this app, Karma is a symbol of appreciation and gratitude. 
 
 * A user account is associated with a relative karma balance ranging from 0 to 255.
 * A Karma value of 0 symbolizes neutral karma whereas the value of 255 symbolizes the best possible karma.
@@ -19,6 +19,11 @@ The mechanics described above need to be translated into a smart contract.
 3. Try to implement the smart contract in Solidity using the [Remix Solidity IDE][remix].
 
 The documentation of the Solidity language can be found [here][solidity-docs].
+
+---
+[**Solution**]({{ site.baseurl }}{% link homework_solutions/2018-08-12-homework-smart-contract-solution.md %})
+
+[Blockchain-Meetup]: ./../../../../assets/img/BlockchainMeetup.png
 
 [remix]: https://remix.ethereum.org/
 [solidity-docs]: http://solidity.readthedocs.io/en/v0.4.24/
