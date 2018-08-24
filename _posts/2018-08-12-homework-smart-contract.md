@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homework #1: Writing a Smart Contract"
+title:  "💡Homework #1: Writing a Smart Contract"
 date:   2018-08-12 18:00:00 +0200
 categories: homework,karma-app
 ---
@@ -21,7 +21,7 @@ The mechanics described above need to be translated into a smart contract.
 The documentation of the Solidity language can be found [here][solidity-docs].
 
 ---
-[**Solution**]({{ site.baseurl }}{% link homework_solutions/2018-08-12-homework-smart-contract-solution.md %})
+[**💡Solution**]({{ site.baseurl }}{% link homework_solutions/2018-08-12-homework-smart-contract-solution.md %})
 
 [Blockchain-Meetup]: ./../../../../assets/img/BlockchainMeetup.png
 

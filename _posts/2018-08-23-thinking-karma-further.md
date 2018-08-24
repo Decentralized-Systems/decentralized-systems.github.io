@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homework #2: Thinking the Karma-App Further"
+title:  "❓Homework #2: Thinking the Karma-App Further"
 date:   2018-08-22 23:00:00 +0200
 categories: homework,karma-app
 ---
