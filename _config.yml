@@ -20,7 +20,7 @@ description: Website of the Aachen-based Meetup group.
 baseurl: ''
 url: 'https://decentralized-systems.github.io'
 #twitter_username: Michael_A_Heuer
-#github_username: Michael-A-Heuer
+github_username: decentralized-systems
 markdown: kramdown
 google_analytics: UA-123745916-1
 

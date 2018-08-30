@@ -30,4 +30,4 @@ In addition to this, we publish on this website our protocols, so that you can c
 [Kialo-Debate]: https://www.kialo.com/which-distributed-ledger-technologies-are-the-most-relevant-16186/16186.0/16186.0
 [Dapp-development]: https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners
 [nodejs]: https://nodejs.org/en/
-[git-repo]: git@github.com:decentralized-systems/Karma-App.git
+[git-repo]: https://github.com/decentralized-systems
