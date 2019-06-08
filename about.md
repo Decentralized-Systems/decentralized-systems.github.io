@@ -6,7 +6,7 @@ permalink: /about/
 
 This is the website of the Aachen-based [Meetup group][Meetup]. 
 We have the goal to build up expertise in using blockchain and distributed ledger technologies for App development.
-For this purpose, we organzie
+For this purpose, we organize
 * 💬 discussion rounds
 * 🎤 talks
 * 💻 hands-on sessions
